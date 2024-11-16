@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || INSTAGRAM = https://Instagram.com/@sreejan_edit
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+Please Follow My Support Channel https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r
 Owner number https://wa.me/917439382677
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*OYY SREEJAN A DEVELOPER *
