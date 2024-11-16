@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃BERA TECH
+┃SREEJAN XD
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙱𝙴𝚁𝙰
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = OYY SREEJAN
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || INSTAGRAM = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
+❷ || INSTAGRAM = https://Instagram.com/@sreejan_edit
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
-Wanna talk? https://wa.me/254743982206?
+Owner number https://wa.me/917439382677
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*BRUCE BERA A DEVELOPER *
 
